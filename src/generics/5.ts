@@ -4,7 +4,7 @@ editor = 'editor',
 guest = 'guest',
 }
 
-// Замініть наступний код на версію за допомогою Record
+
 type RoleDescription = Record<UserRole, string>
 
 const RoleDescription:RoleDescription = {
